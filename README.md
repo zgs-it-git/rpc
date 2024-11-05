@@ -10,4 +10,4 @@
   2.2 在zookeeper中发现服务
   2.3 遍历生产者列表,建立netty客户端，远程调用生产者来完成任务
 
-  这个demo使用了自定义注解，反射，动态代理等语言特性，spring boot，netty等框架，技术深度较高。
+  这个demo使用了自定义注解，反射，动态代理等语言特性，spring boot，netty等框架。
